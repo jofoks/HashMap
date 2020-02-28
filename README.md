@@ -1,2 +1,1 @@
-# HashMap
-Unfinished module of a HashMapper
+![](images/Visual_Representation.png)
